@@ -1,4 +1,4 @@
-# course-advance-java
+# Course Advance Java
 Course of Advance Java 2 days
 * Test-Driven Development (TDD)
   * Workshop
