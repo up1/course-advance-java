@@ -22,3 +22,4 @@ Course of Advance Java 2 days
 * [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 * [Spring Cloud Contract](https://spring.io/projects/spring-cloud-contract)
   * [WireMock](http://wiremock.org/)
+  * [Stubby4j](https://github.com/azagniotov/stubby4j)
