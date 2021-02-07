@@ -2,6 +2,8 @@
 Course of Advance Java 2 days
 * Test-Driven Development (TDD)
   * Workshop
+* Clean Code Workshop   
+* [Refactoring workshop](https://github.com/emilybache/Tennis-Refactoring-Kata)
 * SOLID principle
   * Workshop
 * [Learn with Testing](https://martinfowler.com/articles/microservice-testing/)
