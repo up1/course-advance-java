@@ -4,6 +4,14 @@ Course of Advance Java 2 days
 ## Technical practices
 
 * Test-Driven Development (TDD)
+  * [JUnit 5](https://junit.org/)
+  * Arrange-Act-Assert
+  * F.I.R.S.T
+    * Fast
+    * Isolated / Independent
+    * Repeatable
+    * Self-validating
+    * Thorough / Timely
 * Clean Code Workshop
   * Stay clear
   * [Code Smell](https://sourcemaking.com/refactoring/smells)
