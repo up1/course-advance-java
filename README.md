@@ -16,7 +16,7 @@ Course of Advance Java 2 days
   * Stay clean ...
   * [Code Smell](https://sourcemaking.com/refactoring/smells)
   * [Refactoring](https://sourcemaking.com/refactoring)
-    * [Refactoring workshop](https://github.com/emilybache/Tennis-Refactoring-Kata)
+    * [Tennis workshop](https://github.com/emilybache/Tennis-Refactoring-Kata)
     * [Bad code workshop](https://github.com/up1/workshop-java-badcode)
 * SOLID and STUPID principles
   * Single-responsibility principle
