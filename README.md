@@ -4,8 +4,9 @@ Course of Advance Java 2 days
   * Workshop
 * Clean Code Workshop   
 * [Refactoring workshop](https://github.com/emilybache/Tennis-Refactoring-Kata)
-* SOLID principle
+* SOLID and STUPID principles
   * Workshop
+* Bad code workshop
 * [Learn with Testing](https://martinfowler.com/articles/microservice-testing/)
 * Spring Boot Testing
   * Controller 
