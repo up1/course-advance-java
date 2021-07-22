@@ -3,6 +3,8 @@ Course of Advance Java 2 days
 
 ## Technical practices
 
+* Coding is for Humans
+  * Stay clean ... 
 * Test-Driven Development (TDD)
   * [JUnit 5](https://junit.org/)
   * Arrange-Act-Assert
@@ -13,7 +15,6 @@ Course of Advance Java 2 days
     * Self-validating
     * Thorough / Timely
 * Clean Code Workshop
-  * Stay clean ...
   * [Code Smell](https://sourcemaking.com/refactoring/smells)
   * [Refactoring](https://sourcemaking.com/refactoring)
     * [Tennis workshop](https://github.com/emilybache/Tennis-Refactoring-Kata)
