@@ -33,7 +33,7 @@ Course of Advance Java 2 days
 ## Testable application
 
 * [Learn with Testing](https://martinfowler.com/articles/microservice-testing/)
-* Spring Boot Testing
+* [Spring Boot Testing](https://github.com/up1/course-springboot-2020/wiki/Workshop-REST-API)
   * Controller 
   * Service
   * Repository
