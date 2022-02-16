@@ -16,6 +16,11 @@ Course of Advance Java 2 days
     * Thorough / Timely
 * Clean Code Workshop
   * [Code Smell](https://sourcemaking.com/refactoring/smells)
+    * Bloaters
+    * Object-Orientation Abusers
+    * Change Preventers
+    * Dispensables
+    * Couplers 
   * [Refactoring](https://sourcemaking.com/refactoring)
     * [Tennis workshop](https://github.com/emilybache/Tennis-Refactoring-Kata)
     * [Bad code workshop](https://github.com/up1/workshop-java-badcode)
