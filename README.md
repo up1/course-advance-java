@@ -46,6 +46,9 @@ Course of Advance Java 2 days
   
 ## List of workshop
 * [Demo of Spring Boot Testing](https://github.com/up1/demo-spring-testing)
+* Workshop :: 2022/02/17-18
+  * [Day 1](https://github.com/up1/demo-advance-java-2022)
+  * [Day 2](https://github.com/up1/demo-java-with-spring-boot-20220218)
 * [Workshop :: 2021/08/02-03](https://github.com/up1/workshop-advance-java-20210802)
 * [Workshop :: 2021/02/08-09](https://github.com/up1/workshop-advance-java-01)
 * [Workshop :: 2020/09/28](https://github.com/up1/workshop-advance-java-2020-09-28)
