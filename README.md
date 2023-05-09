@@ -1,5 +1,8 @@
 # Course Advance Java
 Course of Advance Java 2 days
+* TDD
+* Testable application
+* Testing with Spring Boot
 
 ## Technical practices
 
